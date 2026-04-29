@@ -42,3 +42,6 @@ This client-side application communicates with a backend server using HTTP metho
 - **PUT/PATCH** → Update data  
 - **DELETE** → Remove data  
  
+![Image](https://github.com/MdBelayet3/simple-crud-client/blob/main/Screenshot%202026-04-29%20072641.png?raw=true)
+![Image](https://github.com/MdBelayet3/simple-crud-client/blob/main/Screenshot%202026-04-29%20072719.png?raw=true)
+![Image](https://github.com/MdBelayet3/simple-crud-client/blob/main/Screenshot%202026-04-29%20072742.png?raw=true)

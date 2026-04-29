@@ -1,17 +1,9 @@
 
-# 🧑‍💻 Simple CRUD Client
+# Simple CRUD Client
 
 This is a simple CRUD (Create, Read, Update, Delete) client-side application built using React. The project connects to a backend server and allows users to manage data through a clean and interactive user interface.
 
-## 🔗 Live Preview
-(Add your live link here if available)
-
-## 📂 Repository
-https://github.com/MdBelayet3/simple-crud-client
-
----
-
-## 📌 Project Overview
+##  Project Overview
 
 This project is a beginner-friendly CRUD application where users can:
 
@@ -22,9 +14,7 @@ This project is a beginner-friendly CRUD application where users can:
 
 The main goal of this project is to practice how frontend applications interact with APIs and manage dynamic data.
 
----
-
-## 🚀 Features
+## Features
 
 - Create new user/data
 - Read and display all data
@@ -33,9 +23,8 @@ The main goal of this project is to practice how frontend applications interact 
 - Real-time UI updates
 - Simple and clean design
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React.js
 - JavaScript (ES6)
@@ -43,9 +32,8 @@ The main goal of this project is to practice how frontend applications interact 
 - CSS3
 - Fetch API
 
----
 
-## ⚙️ How It Works
+## How It Works
 
 This client-side application communicates with a backend server using HTTP methods:
 
@@ -53,20 +41,4 @@ This client-side application communicates with a backend server using HTTP metho
 - **POST** → Add new data  
 - **PUT/PATCH** → Update data  
 - **DELETE** → Remove data  
-
----
-
-## 📦 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/MdBelayet3/simple-crud-client
-
-# Go to project folder
-cd simple-crud-client
-
-# Install dependencies
-npm install
-
-# Run the project
-npm start
+ 
